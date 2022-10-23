@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-/dist
+# /dist  hosting 으로 이어지기 때문에 ignore 되면 안됨. 
 
 
 # local env files
