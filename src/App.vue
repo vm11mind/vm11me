@@ -1,16 +1,22 @@
 <template>
-  <HelloWorld msg="뷰 시작함- npm run build  는 안함. ."/>
+  <Precepts msg="뷰 시작함- npm run build  는 안함. ."/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Precepts from './components/mind/Precepts.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Precepts
   }
 }
+
+
+
+
+
 </script>
 
 <style>
