@@ -1,4 +1,4 @@
-# vm11me_vue
+# vm11me
 
 ## Project setup
 ```
