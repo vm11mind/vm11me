@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "vm11me_vue/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
